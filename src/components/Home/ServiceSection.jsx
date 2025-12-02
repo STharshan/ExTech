@@ -7,7 +7,7 @@ import "aos/dist/aos.css";
 const services = [
   {
     title: "Diagnostics",
-    desc: `Remove scuffs, scratches, and damage for wheels that look brand new.`,
+    desc: `Quick, accurate checks to detect issues early and keep your vehicle running at its best.`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
